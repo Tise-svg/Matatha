@@ -1,0 +1,13 @@
+.lol{
+    font-size: 30px;
+}
+body{
+    font-size: 20px;
+    background-color: lightblue;
+}
+button{
+    padding: 20px;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}

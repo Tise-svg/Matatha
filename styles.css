@@ -1,0 +1,60 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0px;
+    background-color: lightblue;
+    padding: 20px 70px;
+    
+}
+
+.titi{
+    border-radius: 50px;
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    transition: 1s;
+}
+
+a:hover{
+    background-color: navy;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    height: 800px;
+}
+
+.butt-1{
+    transition: 1s;
+    padding: 20px 30px;
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    bottom: 60px;
+    left: 70px;
+}
+
+.butt-1:hover{
+    background-color: navy;
+    color: white;
+}
+
+h1{
+    font-size: 120px;
+    font-family: lucida sans;
+    color: navy;
+}
+
